@@ -6,3 +6,4 @@
 "repudiated and annoyances accepted. The wise man therefore always holds in these matters be this principle of selection: he rejects pleasures"
 " be secure other greater pleasures, or else he endures pains be avoid worse pains."
 Cambio de la nueva rama
+Otro Cambio de la nueva rama

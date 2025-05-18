@@ -9,4 +9,7 @@ Shift + Ctrl + G = Control Codigo fuente.
 Shift + Ctrl + D = Ejecucion y Depuracion. #Debugger
 Shift + Ctrl + X = Extenciones.
 
+Ctrl + S = Save
+@Orwell1984Orwell@
+
 
