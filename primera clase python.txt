@@ -1,0 +1,12 @@
+Primera clase de python
+
+Notas
+Comandos de VSC:
+
+Shift + Ctrl + E = Explorador.
+Shift + Ctrl + F = Buscar.
+Shift + Ctrl + G = Control Codigo fuente.
+Shift + Ctrl + D = Ejecucion y Depuracion. #Debugger
+Shift + Ctrl + X = Extenciones.
+
+
